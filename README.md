@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Indra
+# 👋 Hello, I'm Riski Indra Pratama
 
 Cloud Engineer with hands-on experience in building and managing cloud infrastructure using AWS services. My main focus is on provisioning, automation, deployment, and monitoring to deliver scalable and efficient cloud solutions.
 
@@ -30,8 +30,6 @@ Cloud Engineer with hands-on experience in building and managing cloud infrastru
 | Project | Description |
 |--------|-------------|
 | [aws-webapp-deploy](https://github.com/RiskyIndraa/aws-webapp-deploy) | Deploy a web app using EC2, RDS, and S3 with CloudFormation |
-| [lambda-s3-automation](https://github.com/RiskyIndraa/lambda-s3-automation) | Automate S3 tasks using AWS Lambda |
-| [apigateway-lambda-crud](https://github.com/RiskyIndraa/apigateway-lambda-crud) | CRUD API with Lambda, API Gateway, and DynamoDB |
 
 ---
 
