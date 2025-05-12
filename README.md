@@ -29,7 +29,7 @@ Cloud Engineer with hands-on experience in building and managing cloud infrastru
 
 | Project | Description |
 |--------|-------------|
-| [aws-webapp-deploy](https://github.com/RiskyIndraa/aws-webapp-deploy) | Deploy a web app using EC2, RDS, and S3 with CloudFormation |
+| [CI -CD Github Action](https://github.com/RiskyIndraa/CI-CD) | Deploy a web app using environtment Beanstalk with CI - CD |
 
 ---
 
