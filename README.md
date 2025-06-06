@@ -29,7 +29,8 @@ Cloud Engineer with hands-on experience in building and managing cloud infrastru
 
 | Project | Description |
 |--------|-------------|
-| [CI -CD Github Action](https://github.com/RiskyIndraa/CI-CD) | Deploy a web app using environtment Beanstalk with CI - CD |
+| [CI - CD Github Action](https://github.com/RiskyIndraa/CI-CD) | Deploy a web app using environtment Beanstalk with CI - CD |
+| [Docker Local](https://github.com/RiskyIndraa/DockerLocal) | Testing Docker Containers Before Pushing to the Cloud |
 
 ---
 
