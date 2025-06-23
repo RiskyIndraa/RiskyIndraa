@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Riski Indra Pratama
 
-Cloud Engineer with hands-on experience in building and managing cloud infrastructure using AWS services. My main focus is on provisioning, automation, deployment, and monitoring to deliver scalable and efficient cloud solutions.
+Cloud Practitioner with hands-on experience in building and managing cloud infrastructure using AWS services. My main focus is on provisioning, automation, deployment, and monitoring to deliver scalable and efficient cloud solutions.
 
 ---
 
