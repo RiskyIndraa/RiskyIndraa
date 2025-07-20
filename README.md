@@ -31,7 +31,7 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
 |--------|-------------|
 | [CI - CD Github Action](https://github.com/RiskyIndraa/CI-CD) | Deploy a web app using environtment Beanstalk with CI - CD |
 | [Docker Local](https://github.com/RiskyIndraa/DockerLocal) | Testing Docker Containers Before Pushing to the Cloud |
-
+| [Gemini Chatbot](https://github.com/RiskyIndraa/gemini-chatbot-api) | AI Chatbot using the Gemini model |
 ---
 
 ## 📫 Connect with Me
