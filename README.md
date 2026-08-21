@@ -17,9 +17,9 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
 
 ## 🛠️ My Toolbelt
 - **Cloud**: AWS (EC2, RDS, Lambda, S3, VPC, API Gateway, IAM, DynamoDB, Elastic Beanstalk)
-- **IaC**: AWS CloudFormation
+- **IaC**: AWS CloudFormation, Terraform, Ansible
 - **CI/CD**: GitHub Actions
-- **Containers**: Docker
+- **Containers**: Docker and Kubernetes
 - **Monitoring**: AWS CloudWatch
 - **Languages**: Bash, Python, YAML
 
@@ -31,6 +31,8 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
 |--------|-------------|
 | [CI - CD Github Action](https://github.com/RiskyIndraa/CI-CD) | Deploy a web app using environtment Beanstalk with CI - CD |
 | [Docker Local](https://github.com/RiskyIndraa/DockerLocal) | Testing Docker Containers Before Pushing to the Cloud |
+| [IPFire Template](https://github.com/RiskyIndraa/ipfire-template) | IPFire Ansible Template For IPS and IDS |
+| [GCP NAT Instances](https://github.com/RiskyIndraa/gcp-nat-instances) | Terraform Templates for GCP NAT Instances |
 ---
 
 ## 📫 Connect with Me
