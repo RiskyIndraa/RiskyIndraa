@@ -31,6 +31,7 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
 |--------|-------------|
 | [IPFire Template](https://github.com/RiskyIndraa/ipfire-template) | IPFire Ansible Template For IPS and IDS |
 | [GCP NAT Instances](https://github.com/RiskyIndraa/gcp-nat-instances) | Terraform Templates for GCP NAT Instances |
+| [Update Firewall ]([https://github.com/RiskyIndraa/gcp-nat-instances](https://github.com/RiskyIndraa/update-firewall.git)) | Update Firewall Rule With My IP |
 ---
 
 ## 📫 Connect with Me
@@ -39,7 +40,7 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
   <a href="https://github.com/RiskyIndraa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:ip676716indrapratama@gmail.com">
+  <a href="mailto:riskyindraa49@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/riskyindra/" target="_blank">
