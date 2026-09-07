@@ -31,7 +31,7 @@ Cloud Practitioner with hands-on experience in building and managing cloud infra
 |--------|-------------|
 | [IPFire Template](https://github.com/RiskyIndraa/ipfire-template) | IPFire Ansible Template For IPS and IDS |
 | [GCP NAT Instances](https://github.com/RiskyIndraa/gcp-nat-instances) | Terraform Templates for GCP NAT Instances |
-| [Update Firewall ]([https://github.com/RiskyIndraa/gcp-nat-instances](https://github.com/RiskyIndraa/update-firewall.git)) | Update Firewall Rule With My IP |
+| [Update Firewall ](https://github.com/RiskyIndraa/update-firewall.git) | Update Firewall Rule With My IP |
 ---
 
 ## 📫 Connect with Me
